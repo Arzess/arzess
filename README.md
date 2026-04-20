@@ -1,7 +1,7 @@
 # Hi there, I'm ✌️
 **Creative Frontend Engineer | Motion Design Expert**
 
-[[Link](https://www.linkedin.com/in/arsenii-malyshko/)] | [[Email](arsenii.malyshko@gmail.com)] | [[Location](Vienna)]
+[[LinkedIn](https://www.linkedin.com/in/arsenii-malyshko/)] | [📩](arsenii.malyshko@gmail.com) | 📍 Vienna
 
 ---
 
