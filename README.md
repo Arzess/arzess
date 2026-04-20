@@ -24,6 +24,10 @@ Frontend-focused Developer with 7+ years of Motion Design experience and over 50
 
 ---
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arzess)](https://github.com/arzess/github-readme-stats)
+
+---
+
 ## 📫 Get In Touch
 * **LinkedIn:** [[Link](https://www.linkedin.com/in/arsenii-malyshko/)]
 * **Telegram:** [[Telegram](https://t.me/aarrrr31)]
