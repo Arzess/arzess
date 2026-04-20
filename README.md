@@ -1,7 +1,7 @@
-# Hi there, I'm Arsenii Malyshko
+# Hi there, I'm ✌️
 **Creative Frontend Engineer | Motion Design Expert**
 
-[Link to Portfolio] | [LinkedIn Profile] | [Email/Contact] | [Location]
+[[Link](https://www.linkedin.com/in/arsenii-malyshko/)] | [[Email](arsenii.malyshko@gmail.com)] | [[Location](Vienna)]
 
 ---
 
@@ -20,7 +20,7 @@ Frontend-focused Developer with 7+ years of Motion Design experience and over 50
 
 ## Get In Touch
 * **LinkedIn:** [[Link](https://www.linkedin.com/in/arsenii-malyshko/)]
-* **Email:** [arsenii.malyshko@gmail.com]
+* **Email:** [[Email](arsenii.malyshko@gmail.com)]
 
 ---
 *Open to part-time Frontend Development / Motion Design roles in Vienna and remote opportunities.*
