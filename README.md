@@ -4,7 +4,9 @@
 ---
 
 ## About Me
-Frontend-focused Developer with 7+ years of Motion Design experience and over 500 different projects under my belt. Developing high-performance, visually engaging web applications, and converting complex problems into clean code and fluid animations. 
+Frontend-focused Developer with 7+ years of Motion Design experience and over 500 different projects under my belt. Currently pursuing Bachelor's degree in Computer Science at the University of Vienna. I'm developing high-performance, visually engaging web applications, and converting complex problems into clean code and fluid animations. 
+
+
 
 ---
 
@@ -23,6 +25,12 @@ Frontend-focused Developer with 7+ years of Motion Design experience and over 50
 ![Russian](https://img.shields.io/badge/Russian-Native-white?style=flat-square)
 
 ---
+## 🎓 Currently Learning
+
+* Experementing with React Native, creating different mobile apps.
+* Learning Java
+
+--- 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arzess)](https://github.com/arzess/github-readme-stats)
 
