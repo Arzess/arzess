@@ -18,6 +18,7 @@ Frontend-focused Developer with 7+ years of Motion Design experience and over 50
 ## 🗣️ Languages 
 
 ![English](https://img.shields.io/badge/English-C2-blue?style=flat-square)
+![German](https://img.shields.io/badge/German-C1-red?style=flat-square)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
 ---
