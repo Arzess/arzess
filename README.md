@@ -1,7 +1,5 @@
 # Hi there, I'm Sen✌️
-**Creative Frontend Engineer | Motion Design Expert**
-
-[[LinkedIn](https://www.linkedin.com/in/arsenii-malyshko/)] | [📩](arsenii.malyshko@gmail.com) | 📍 Vienna
+**Creative Frontend Engineer | Motion Design Expert 📍 Vienna**
 
 ---
 
@@ -10,17 +8,24 @@ Frontend-focused Developer with 7+ years of Motion Design experience and over 50
 
 ---
 
-## Technical Skills
+## 🧰 Tech Stack
 * **Frontend Development:** JavaScript, React, HTML5, CSS3, Tailwind CSS, Bootstrap, Responsive Web Design.
 * **Motion & Design:** Motion Design, UI/UX Design (Figma), 2D/3D Animation, Adobe Creative Suite (After Effects, Premiere Pro, Photoshop, Illustrator).
 * **Backend & Tools:** Node.js, RESTful APIs, CMS Development, AI Integration, C#.
-* **Languages:** English (C2 - Native level), German (C1), Ukrainian (Native).
 
 ---
 
-## Get In Touch
+## 🗣️ Languages 
+
+![English](https://img.shields.io/badge/English-C2-blue?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
+---
+
+## 📫 Get In Touch
 * **LinkedIn:** [[Link](https://www.linkedin.com/in/arsenii-malyshko/)]
-* **Email:** [[Email](arsenii.malyshko@gmail.com)]
+* **Telegram:** [[Telegram](https://t.me/aarrrr31)]
+* **Email:** [[Email](mailto:arsenii.malyshko@gmail.com)]
 
 ---
 *Open to part-time Frontend Development / Motion Design roles in Vienna and remote opportunities.*
