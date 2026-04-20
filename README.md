@@ -1,4 +1,4 @@
-# Hi there, I'm ✌️
+# Hi there, I'm Sen✌️
 **Creative Frontend Engineer | Motion Design Expert**
 
 [[LinkedIn](https://www.linkedin.com/in/arsenii-malyshko/)] | [📩](arsenii.malyshko@gmail.com) | 📍 Vienna
