@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Arsenii Malyshko
+**Creative Frontend Engineer | Motion Design Expert**
 
-<!--
-**Arzess/arzess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Link to Portfolio] | [LinkedIn Profile] | [Email/Contact] | [Location]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Frontend-focused Developer with 7+ years of Motion Design experience and over 500 different projects under my belt. Developing high-performance, visually engaging web applications, and converting complex problems into clean code and fluid animations. 
+
+---
+
+## Technical Skills
+* **Frontend Development:** JavaScript, React, HTML5, CSS3, Tailwind CSS, Bootstrap, Responsive Web Design.
+* **Motion & Design:** Motion Design, UI/UX Design (Figma), 2D/3D Animation, Adobe Creative Suite (After Effects, Premiere Pro, Photoshop, Illustrator).
+* **Backend & Tools:** Node.js, RESTful APIs, CMS Development, AI Integration, C#.
+* **Languages:** English (C2 - Native level), German (C1), Ukrainian (Native).
+
+---
+
+## Get In Touch
+* **LinkedIn:** [[Link](https://www.linkedin.com/in/arsenii-malyshko/)]
+* **Email:** [arsenii.malyshko@gmail.com]
+
+---
+*Open to part-time Frontend Development / Motion Design roles in Vienna and remote opportunities.*
