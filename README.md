@@ -29,10 +29,10 @@ Frontend-focused Developer with 7+ years of Motion Design experience and over 50
 
 * Experementing with React Native, creating different mobile apps.
 * Learning Java
-
---- 
+<!-- --- 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arzess)](https://github.com/arzess/github-readme-stats)
+-->
 
 ---
 
